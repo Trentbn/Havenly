@@ -71,6 +71,7 @@ nav {
         text-align: right;
         border-bottom: 1px rgba(0,0,0,0.25) solid;
         text-decoration: none;
+        font-weight: 400;
         color: $primaryColor;
     }
 
@@ -186,8 +187,9 @@ main {
 footer {
     font-size: .85rem;
     padding: 1rem $gutter;
-    color: white;
+    color: $blackColor;
     text-align: center;
     line-height: $leading;
-    a {color: white;}
+    a {color: $blackColor}
+    font-weight: 300;
 }// end footer

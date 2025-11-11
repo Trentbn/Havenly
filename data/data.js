@@ -45,6 +45,6 @@ export const hotels = [
     "image": "images/cabin8.webp",
     "name": "Redwood Hideaway",
     "phone": "(555) 662-5012",
-    "address": ["455 Whispering Pines Lane", "Crescent City, CA 95531"]
+    "address": ["455 Pines Lane", "Crescent City, CA 95531"]
   }
 ]
