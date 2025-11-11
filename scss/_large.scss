@@ -28,6 +28,19 @@ nav {
     padding: 0.6rem 1.5rem;
     border: none;
   }
+
+  ul li a:hover {
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 20px;
+
+    
+}
+
+li.active a {
+    color: $primaryLight;
+    background-color: $blackColor;
+    border-radius: 20px;
+}
 }
 
 #navWrapper {
