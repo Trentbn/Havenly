@@ -458,19 +458,19 @@ main p {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-  background-color: #c66328;
+  background-color: #071E22;
 }
 
 footer {
   font-size: 0.85rem;
   padding: 1rem 10px;
-  color: #071E22;
+  color: #DB814D;
   text-align: center;
   line-height: 150%;
   font-weight: 500;
 }
 footer a {
-  color: #071E22;
+  color: #DB814D;
 }
 
 @media only screen and (min-width: 35rem) {

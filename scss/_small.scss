@@ -186,15 +186,15 @@ main {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-    background-color: $primaryColor
+    background-color: $blackColor;
 } // end footer wrapper
 
 footer {
     font-size: .85rem;
     padding: 1rem $gutter;
-    color: $blackColor;
+    color: $primaryLight;
     text-align: center;
     line-height: $leading;
-    a {color: $blackColor}
+    a {color: $primaryLight}
     font-weight: 500;
 }// end footer
